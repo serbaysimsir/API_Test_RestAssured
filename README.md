@@ -3,10 +3,10 @@ Projenin amacı, http://www.omdbapi.com/ bağlantı adresindeki public api'nin t
 1. "By Search" başlığı altındaki parametrelerle "Harry Potter" araması yapıp, gelen sonuçlardan "Harry Potter and the Sorcerer's Stone" filminin id'sinin alınması
 2. İlk case'de alınan id ile "By ID or Title" başlığı altındaki metodlarda film araması
 ## Kullanılan Teknolojiler
-**Java** Java; basit, nesne odaklı, ağ anlayışlı, yorumlanmış, sağlam, güvenli, taşınabilir, nötr mimarisi, yüksek performanslı ve dinamik bir bilgisayar dilidir.
-**Rest Assured** RESTful web servislerini test etmek için kullanılan Java tabanlı bir kitaplıktır.
-**TestNG** TestNG, Cédric Beust tarafından oluşturulan ve JUnit ve NUnit'ten esinlenen Java programlama dili için bir test çerçevesidir.
-**Log4j** Log4j, Java tabanlı bir günlük oluşturma yardımcı programıdır. 
+**Java :** basit, nesne odaklı, ağ anlayışlı, yorumlanmış, sağlam, güvenli, taşınabilir, nötr mimarisi, yüksek performanslı ve dinamik bir bilgisayar dilidir. <br/>
+**Rest Assured :** RESTful web servislerini test etmek için kullanılan Java tabanlı bir kitaplıktır. <br/>
+**TestNG :** TestNG, Cédric Beust tarafından oluşturulan ve JUnit ve NUnit'ten esinlenen Java programlama dili için bir test çerçevesidir. <br/>
+**Log4j :** Log4j, Java tabanlı bir günlük oluşturma yardımcı programıdır.  <br/>
 ## Proje Yapısı
 ![Proje Yapısı](https://user-images.githubusercontent.com/45245369/115285993-3c403680-a157-11eb-9252-744f3e3febbb.PNG)
 ### HelperMethods Paketi
