@@ -1,0 +1,38 @@
+2021-04-18 21:40:20 INFO  Log:8 - Test Started.
+2021-04-18 21:40:20 INFO  Log:8 - Test Case is Starting: getMoviesbyTitle
+2021-04-18 21:40:23 INFO  Log:8 - Test Case Successful: getMoviesbyTitle
+2021-04-18 21:40:23 INFO  Log:8 - Test Case is Starting: getMoviesbyID
+2021-04-18 21:40:23 INFO  Log:8 - Test Case Successful: getMoviesbyID
+2021-04-18 21:40:23 INFO  Log:8 - Test Finished.
+2021-04-18 21:41:06 INFO  Log:8 - Test Started.
+2021-04-18 21:41:06 INFO  Log:8 - Test Case is Starting: getMoviesbyTitle
+2021-04-18 21:41:08 ERROR Log:14 - Test Case Failed: getMoviesbyTitle An error was encountered because the requested movie could not be obtained. expected [Harry Potter and the Sorcerer's Stone] but found [null]
+2021-04-18 21:41:08 INFO  Log:8 - Test Case is Starting: getMoviesbyID
+2021-04-18 21:41:08 WARN  Log:11 - Test Case Skipped: getMoviesbyID Method OMDBSearchTestCases.getMoviesbyID()[pri:0, instance:OMDBSearch.OMDBSearchTestCases@3541cb24] depends on not successfully finished methods
+2021-04-18 21:41:08 INFO  Log:8 - Test Finished.
+2021-04-18 21:41:45 INFO  Log:8 - Test Started.
+2021-04-18 21:41:45 INFO  Log:8 - Test Case is Starting: getMoviesbyTitle
+2021-04-18 21:41:47 INFO  Log:8 - Test Case Successful: getMoviesbyTitle
+2021-04-18 21:41:47 INFO  Log:8 - Test Case is Starting: getMoviesbyID
+2021-04-18 21:41:48 ERROR Log:14 - Test Case Failed: getMoviesbyID 1 expectation failed.
+Expected status code <201> but was <200>.
+
+2021-04-18 21:41:48 INFO  Log:8 - Test Finished.
+2021-04-18 21:42:20 INFO  Log:8 - Test Started.
+2021-04-18 21:42:20 INFO  Log:8 - Test Case is Starting: getMoviesbyTitle
+2021-04-18 21:42:23 INFO  Log:8 - Test Case Successful: getMoviesbyTitle
+2021-04-18 21:42:23 INFO  Log:8 - Test Case is Starting: getMoviesbyID
+2021-04-18 21:42:23 INFO  Log:8 - Test Case Successful: getMoviesbyID
+2021-04-18 21:42:23 INFO  Log:8 - Test Finished.
+2021-04-19 11:52:11 INFO  Log:8 - Test Started.
+2021-04-19 11:52:11 INFO  Log:8 - Test Case is Starting: getMoviesbyTitle
+2021-04-19 11:52:13 INFO  Log:8 - Test Case Successful: getMoviesbyTitle
+2021-04-19 11:52:13 INFO  Log:8 - Test Case is Starting: getMoviesbyID
+2021-04-19 11:52:14 INFO  Log:8 - Test Case Successful: getMoviesbyID
+2021-04-19 11:52:14 INFO  Log:8 - Test Finished.
+2021-04-19 12:11:06 INFO  Log:8 - Test Started.
+2021-04-19 12:11:06 INFO  Log:8 - Test Case is Starting: getMoviesbyTitle
+2021-04-19 12:11:08 INFO  Log:8 - Test Case Successful: getMoviesbyTitle
+2021-04-19 12:11:09 INFO  Log:8 - Test Case is Starting: getMoviesbyID
+2021-04-19 12:11:09 INFO  Log:8 - Test Case Successful: getMoviesbyID
+2021-04-19 12:11:09 INFO  Log:8 - Test Finished.
